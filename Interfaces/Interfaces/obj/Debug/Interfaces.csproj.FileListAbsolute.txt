@@ -1,0 +1,3 @@
+D:\TICH\SEMANA 2\02-06-2022\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+D:\TICH\SEMANA 2\02-06-2022\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+D:\TICH\SEMANA 2\02-06-2022\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
